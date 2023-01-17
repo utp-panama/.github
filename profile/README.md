@@ -1,6 +1,3 @@
-
-![Logo](https://github.com/utp-panama/utp-panama.github/blob/d2d36ebc63faf7bc47650933cc8b597a2e282c5a/pictures/neque.png?raw=true)
-
 # **Proyecto Capibara - UTP**
 
 El proyecto Capibara tiene como objetivo principal reunir y
@@ -30,7 +27,7 @@ revisión y actualización de los contenidos académicos,
  valioso para nosotros ya que te permitirá ser parte activa del
  desarrollo y mejora continua de la plataforma. [¡Te esperamos en nuestro grupo de Telegram!](https://t.me/+nH0Wi9k38KI0MjQx).
 
-## **FCT- Facultad de Ciencias y Tecnología**
+## **FCT- Facultad de Ciencias y Tecnología** 
 
 - Licenciatura en Ingeniería Forestal
 - Licenciatura en Ingeniería en Alimentos
